@@ -13,4 +13,5 @@ var multiply = function(number1,number2){
 var divide = function(number1, number2){
   return(number1 / number2)
 }
-alert(divide(number1,number2))
+
+alert(multiply(number1,number2));
